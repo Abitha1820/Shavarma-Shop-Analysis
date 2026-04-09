@@ -18,7 +18,7 @@ This project presents a Power BI dashboard analyzing fast food (shawarma shop) s
 
 ## 📂 Files Included
 - Power BI Dashboard (Shavarma Shop Analysis.pbix)  
-- Dataset (Dataset.xlsx)  
+- Dataset (Shavarma Shop Analysis.xlsx)  
 - Dashboard Screenshot  
 
 ## 📷 Dashboard Preview
