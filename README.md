@@ -22,4 +22,4 @@ This project presents a Power BI dashboard analyzing fast food (shawarma shop) s
 - Dashboard Screenshot  
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
